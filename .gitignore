@@ -1,0 +1,11 @@
+.php-server.log
+.php-server-error.log
+cookie.txt
+admin-cookie.txt
+.env
+.env.*
+vendor/
+node_modules/
+.DS_Store
+Thumbs.db
+.sixth/
